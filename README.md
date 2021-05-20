@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## PROJECT URL DEPLOYED WITH FIREBASE
 
-In the project directory, you can run:
+URL : https://covid-19-trackervp.web.app/
 
 ### `npm start`
 
